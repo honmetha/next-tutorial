@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   <a href="https://nextjs.org/"><img src="./public/next-js-logo.png" alt="Next.js" width="200"></a>
   <br>
   Next.js Tutorial
