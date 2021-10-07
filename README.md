@@ -1,5 +1,6 @@
 <h1 align="center">
-  <a href="https://nextjs.org/"><img src="./public/next-js-logo.png" alt="Next.js" width="200"></a>
+  <!-- <a href="https://nextjs.org/"><img src="./public/next-js-logo.png" alt="Next.js" width="200"></a> -->
+  <a href="https://nextjs.org/"><img src="./public/next-js-white-bg.png" alt="Next.js" width="360"></a>
   <br>
   Next.js Tutorial
   <br>
